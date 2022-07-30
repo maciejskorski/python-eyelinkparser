@@ -6,19 +6,19 @@
 [![License](https://img.shields.io/pypi/l/python-eyelinkparser)][license]
 
 [![Read the documentation at https://python-eyelinkparser.readthedocs.io/](https://img.shields.io/readthedocs/python-eyelinkparser/latest.svg?label=Read%20the%20Docs)][read the docs]
-[![Tests](https://github.com/maciej.skorski/python-eyelinkparser/workflows/Tests/badge.svg)][tests]
-[![Codecov](https://codecov.io/gh/maciej.skorski/python-eyelinkparser/branch/main/graph/badge.svg)][codecov]
+[![Tests](https://github.com/maciejskorski/python-eyelinkparser/actions/workflows/python_package.yml/badge.svg)][tests]
 
 [![pre-commit](https://img.shields.io/badge/pre--commit-enabled-brightgreen?logo=pre-commit&logoColor=white)][pre-commit]
 [![Black](https://img.shields.io/badge/code%20style-black-000000.svg)][black]
+
+
 
 [pypi_]: https://pypi.org/project/python-eyelinkparser/
 [status]: https://pypi.org/project/python-eyelinkparser/
 [python version]: https://pypi.org/project/python-eyelinkparser
 [license]: https://pypi.org/project/python-eyelinkparser
 [read the docs]: https://python-eyelinkparser.readthedocs.io/
-[tests]: https://github.com/maciej.skorski/python-eyelinkparser/actions?workflow=Tests
-[codecov]: https://app.codecov.io/gh/maciej.skorski/python-eyelinkparser
+[tests]: https://github.com/maciejskorski/python-eyelinkparser/actions/workflows/python_package.yml/
 [pre-commit]: https://github.com/pre-commit/pre-commit
 [black]: https://github.com/psf/black
 
