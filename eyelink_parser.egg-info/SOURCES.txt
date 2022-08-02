@@ -1,0 +1,11 @@
+LICENSE
+README.md
+pyproject.toml
+setup.py
+eyelink_parser.egg-info/PKG-INFO
+eyelink_parser.egg-info/SOURCES.txt
+eyelink_parser.egg-info/dependency_links.txt
+eyelink_parser.egg-info/top_level.txt
+tests/__init__.py
+tests/test_import.py
+tests/test_main.py

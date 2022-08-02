@@ -1,6 +1,6 @@
 [build-system]
-requires = ["setuptools"]
-build-backend = "setuptools.build_meta"
+requires = ["poetry_core>=1.0.0"]
+build-backend = "poetry.core.masonry.api"
 
 [project]
 name = "python-eyelinkparser"
@@ -13,12 +13,18 @@ license = {text = "GNU GENERAL PUBLIC LICENSE"}
 classifiers = [
     "Programming Language :: Python :: 3",
 ]
+
+[tool.poetry.dependencies]
+python = "^3.6"
+numpy = ">=1.18",
+"scipy>=1.7",
+
+
 dependencies = [
     "numpy>=1.18",
     "scipy>=1.7",
     "python-datamatrix>=0.13",
-    "fastnumbers>=3.0",
-    "prettytable>=3.0"
+    "fastnumbers>=3.0"
 ]
 
 [tool.setuptools.packages.find]
