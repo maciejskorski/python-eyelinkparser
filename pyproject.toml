@@ -9,7 +9,7 @@ authors = [{name="Sebastiaan Mathôt"}]
 maintainers = [{name="Maciej Skorski"}]
 version = "0.18.0"
 readme = "README.md"
-requires-python = ">=3.7"
+requires-python = ">=3.8"
 keywords = ["eye-tracking", "EyeLink"]
 license = {text = "GNU GENERAL PUBLIC LICENSE"}
 classifiers = [
@@ -25,4 +25,3 @@ dependencies = [
 
 [tool.setuptools]
 package-dir = {"" = "src"}
-packages = ["python_eyelinkparser"]
