@@ -24,5 +24,6 @@ dependencies = [
 ]
 
 [tool.setuptools]
-# Automatic discovery will handle the src layout
+# Automatic discovery will handle the src package layout
 package-dir = {"" = "src"}
+# Explicitly add data - not a package (!)
