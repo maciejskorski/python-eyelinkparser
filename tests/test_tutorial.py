@@ -21,6 +21,6 @@ def test_get_tutorial():
         )
         return dm
     
-    _ = get_data(folder=path(python_eyelinkparser,'data'))
+    _ = get_data(folder=str(path(python_eyelinkparser,'data')))
 
 
