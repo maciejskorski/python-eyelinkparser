@@ -1,10 +1,12 @@
 [build-system]
 requires = ["setuptools"]
 build-backend = "setuptools.build_meta"
-
+ 
 [project]
 name = "python-eyelinkparser"
 description = "Parsing EyeLink data in Python"
+authors = [{name="Sebastiaan Mathôt"}]
+maintainers = [{name="Maciej Skorski"}]
 version = "0.18.0"
 readme = "README.md"
 requires-python = ">=3.7"
