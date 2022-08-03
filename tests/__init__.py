@@ -1,1 +1,1 @@
-"""Test suite for the python-eyelink-parser package."""
+"""Test suite for the python-eyelinkparser package."""
