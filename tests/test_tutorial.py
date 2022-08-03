@@ -6,7 +6,7 @@ def test_get_tutorial():
     series as srs
     )
     import python_eyelinkparser
-    from importlib.resources import files
+    from importlib.resources import path
     from python_eyelinkparser.eyelinkparser import parse, defaulttraceprocessor
 
     def get_data(folder='data'):
@@ -21,6 +21,6 @@ def test_get_tutorial():
         )
         return dm
     
-    _ = get_data(folder=files(python_eyelinkparser).joinpath('data'))
+    _ = get_data(folder=path(python_eyelinkparser,'data'))
 
 
