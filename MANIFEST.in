@@ -1,0 +1,2 @@
+include src/python_eyelinkparser/data
+include src/python_eyelinkparser/data/*.asc
