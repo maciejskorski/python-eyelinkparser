@@ -18,7 +18,7 @@ along with datamatrix.  If not, see <http://www.gnu.org/licenses/>.
 """
 
 import numpy as np
-from eyelinkparser import EyeLinkParser
+from python_eyelinkparser.eyelinkparser import EyeLinkParser
 
 
 def chain(*functions):

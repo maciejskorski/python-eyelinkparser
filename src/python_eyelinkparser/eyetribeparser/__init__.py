@@ -17,8 +17,8 @@ You should have received a copy of the GNU General Public License
 along with datamatrix.  If not, see <http://www.gnu.org/licenses/>.
 """
 
-from eyetribeparser._eyetribeparser import EyeTribeParser
-from eyelinkparser import __version__
+from python_eyelinkparser.eyetribeparser._eyetribeparser import EyeTribeParser
+from python_eyelinkparser.eyelinkparser import __version__
 
 
 def parse(parser=EyeTribeParser, **kwdict):

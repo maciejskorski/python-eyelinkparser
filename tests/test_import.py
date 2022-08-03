@@ -1,7 +1,8 @@
 
 
 def test_package_imports():
+    """Test importing submodules"""
     try:
-        from python_eyelinkparser.eyelinkparser import parse, defaulttraceprocessor
+        from python_eyelinkparser import eyelinkparser, eyetribeparser, gazepointparser
     except:
         assert False

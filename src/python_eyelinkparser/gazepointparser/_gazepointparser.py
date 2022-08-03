@@ -17,7 +17,7 @@ You should have received a copy of the GNU General Public License
 along with datamatrix.  If not, see <http://www.gnu.org/licenses/>.
 """
 
-from eyelinkparser import EyeLinkParser, parse, defaulttraceprocessor
+from python_eyelinkparser.eyelinkparser import EyeLinkParser, parse, defaulttraceprocessor
 from datamatrix import io
 
 

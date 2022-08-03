@@ -17,8 +17,8 @@ You should have received a copy of the GNU General Public License
 along with datamatrix.  If not, see <http://www.gnu.org/licenses/>.
 """
 
-from gazepointparser._gazepointparser import GazePointParser
-from eyelinkparser import __version__, defaulttraceprocessor
+from python_eyelinkparser.gazepointparser._gazepointparser import GazePointParser
+from python_eyelinkparser.eyelinkparser import __version__, defaulttraceprocessor
 
 
 def parse(parser=GazePointParser, **kwdict):
