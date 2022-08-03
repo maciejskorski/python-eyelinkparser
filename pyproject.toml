@@ -21,5 +21,6 @@ dependencies = [
     "prettytable>=3.0"
 ]
 
-[tool.setuptools.packages.find]
-where = ["src"]
+[tool.setuptools]
+package-dir = {"" = "src"}
+packages = ["python_eyelinkparser"]

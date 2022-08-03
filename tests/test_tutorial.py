@@ -3,13 +3,13 @@ from datamatrix import (
   functional as fnc,
   series as srs
 )
-from python_eyelink_parser.eyelinkparser import parse, defaulttraceprocessor
+from python_eyelinkparser.eyelinkparser import parse, defaulttraceprocessor
 
 def test_tutorial():
     """Repeat the steps from https://pydatamatrix.eu/eyelinkparser/"""
     # The heavy lifting is done by eyelinkparser.parse()
     dm = parse(
-        folder='src/python_eyelink_parser/data',           # Folder with .asc files
+        folder='src/python_eyelinkparser/data',           # Folder with .asc files
         traceprocessor=defaulttraceprocessor(
             blinkreconstruct=True, # Interpolate pupil size during blinks
             downsample=10,         # Reduce sampling rate to 100 Hz,
