@@ -13,8 +13,8 @@
 %[![Read the documentation at https://maciejskorski.github.io/eye-processing/notebooks/tutorial_parse_eyelink.html](https://img.shields.io/readthedocs/python-eyelinkparser/latest.svg?label=Read%20the%20Docs)][read the docs]
 
 
-[binder]: https://mybinder.org/v2/gh/maciejskorski/eye-processing/dev?labpath=docs%2Fnotebooks%2Ftutorial_parse_eyelink.ipynb
-[colab]: https://colab.research.google.com/github/maciejskorski/python-eyelinkparser/blob/dev/docs/tutorial_parse_eyelink.ipynb
+[binder]: https://mybinder.org/v2/gh/maciejskorski/python-eyelinkparser/master?labpath=docs%2Fnotebooks%2Ftutorial_parse_eyelink.ipynb
+[colab]: https://colab.research.google.com/github/maciejskorski/python-eyelinkparser/blob/master/docs/tutorial_parse_eyelink.ipynb
 [pypi_]: https://pypi.org/project/python-eyelinkparser/
 [status]: https://pypi.org/project/python-eyelinkparser/
 [python version]: https://pypi.org/project/python-eyelinkparser
