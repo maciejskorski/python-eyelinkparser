@@ -5,8 +5,8 @@ def test_get_tutorial():
     functional as fnc,
     series as srs
     )
-    import python_eyelinkparser
     from importlib.resources import path
+    import python_eyelinkparser
     from python_eyelinkparser.eyelinkparser import parse, defaulttraceprocessor
 
     def get_data(folder='data'):
