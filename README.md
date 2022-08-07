@@ -24,7 +24,7 @@
 
 
 Author: Sebastiaan Mathôt  <br />
-Deploying and testing: Maciej Skorski <br /> 
+Packaging, testing, Colab deployment: Maciej Skorski <br /> 
 Copyright 2016-2022  <br />
 http://www.cogsci.nl/smathot
 
