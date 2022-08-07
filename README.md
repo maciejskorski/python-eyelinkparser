@@ -4,16 +4,16 @@
 [![Python Version](https://img.shields.io/pypi/pyversions/python-eyelinkparser)][python version]
 [![License](https://img.shields.io/pypi/l/python-eyelinkparser)][license]
 
-%[![Read the documentation at https://maciejskorski.github.io/eye-processing/notebooks/tutorial_parse_eyelink.html](https://img.shields.io/readthedocs/python-eyelinkparser/latest.svg?label=Read%20the%20Docs)][read the docs]
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)][colab]
 [![Binder](https://mybinder.org/badge_logo.svg)][binder]
 [![Tests](https://github.com/maciejskorski/python-eyelinkparser/actions/workflows/python_package.yml/badge.svg)][tests]
 
 %[![pre-commit](https://img.shields.io/badge/pre--commit-enabled-brightgreen?logo=pre-commit&logoColor=white)][pre-commit]
 %[![Black](https://img.shields.io/badge/code%20style-black-000000.svg)][black]
+%[![Read the documentation at https://maciejskorski.github.io/eye-processing/notebooks/tutorial_parse_eyelink.html](https://img.shields.io/readthedocs/python-eyelinkparser/latest.svg?label=Read%20the%20Docs)][read the docs]
 
 
-[binder](https://mybinder.org/v2/gh/maciejskorski/eye-processing/dev?labpath=docs%2Fnotebooks%2Ftutorial_parse_eyelink.ipynb)
+[binder]: https://mybinder.org/v2/gh/maciejskorski/eye-processing/dev?labpath=docs%2Fnotebooks%2Ftutorial_parse_eyelink.ipynb
 [colab]: https://colab.research.google.com/github/maciejskorski/python-eyelinkparser/blob/dev/docs/tutorial_parse_eyelink.ipynb
 [pypi_]: https://pypi.org/project/python-eyelinkparser/
 [status]: https://pypi.org/project/python-eyelinkparser/
