@@ -27,7 +27,7 @@
 
 
 Code Author: Sebastiaan Mathôt  <br />
-Packaging, testing, Colab deployment: Maciej Skorski <br /> 
+Packaging, testing, interactive tutorials: Maciej Skorski <br /> 
 Copyright 2016-2022  <br />
 http://www.cogsci.nl/smathot
 
