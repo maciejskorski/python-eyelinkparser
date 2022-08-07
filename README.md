@@ -23,7 +23,7 @@
 [black]: https://github.com/psf/black
 
 
-Author: Sebastiaan Mathôt  <br />
+Code Author: Sebastiaan Mathôt  <br />
 Packaging, testing, Colab deployment: Maciej Skorski <br /> 
 Copyright 2016-2022  <br />
 http://www.cogsci.nl/smathot
