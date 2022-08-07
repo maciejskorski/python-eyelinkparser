@@ -1,7 +1,7 @@
 # Python EyeLink Parser
 
 [![Status](https://img.shields.io/pypi/status/python-eyelinkparser.svg)][status]
-[![Python Version](https://commons.wikimedia.org/wiki/File:Blue_Python_3.7%2B_Shield_Badge.svg)][python version]
+[![Python Version](https://img.shields.io/badge/python-3.7%2B-blue.svg)](https://www.python.org/downloads/release/python-370/)
 [![License](https://img.shields.io/pypi/l/python-eyelinkparser)][license]
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)][colab]
