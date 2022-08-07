@@ -1,7 +1,7 @@
 # Python EyeLink Parser
 
 [![Status](https://img.shields.io/pypi/status/python-eyelinkparser.svg)][status]
-[![Python Version](https://img.shields.io/pypi/pyversions/python-eyelinkparser)][python version]
+[![Python Version](https://commons.wikimedia.org/wiki/File:Blue_Python_3.7%2B_Shield_Badge.svg)][python version]
 [![License](https://img.shields.io/pypi/l/python-eyelinkparser)][license]
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)][colab]
@@ -18,7 +18,7 @@
 [colab]: https://colab.research.google.com/github/maciejskorski/python-eyelinkparser/blob/master/docs/tutorial_parse_eyelink.ipynb
 [pypi_]: https://pypi.org/project/python-eyelinkparser/
 [status]: https://pypi.org/project/python-eyelinkparser/
-[python version]: https://pypi.org/project/python-eyelinkparser
+[python version]: https://commons.wikimedia.org/wiki/File:Blue_Python_3.7%2B_Shield_Badge.svg
 [license]: https://pypi.org/project/python-eyelinkparser
 [read the docs]: https://python-eyelinkparser.readthedocs.io/
 [tests]: https://github.com/maciejskorski/python-eyelinkparser/actions/workflows/python_package.yml/
