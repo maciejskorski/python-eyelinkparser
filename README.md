@@ -149,7 +149,7 @@ dm = ep.parse(defaulttraceprocessor=ep.defaulttraceprocessor(
 For a tutorial about using EyeLinkParser, see:
 
 - <https://pydatamatrix.eu/eyelinkparser/> 
-- [![Colab Tutorial](https://colab.research.google.com/assets/colab-badge.svg)][colab]
+- Interactive Tutorial [![Interactive Tutorial](https://colab.research.google.com/assets/colab-badge.svg)][colab]
 
 ## License
 
