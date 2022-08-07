@@ -1,4 +1,4 @@
-# Python EyeLinkParser
+# Python EyeLink Parser
 
 [![PyPI](https://img.shields.io/pypi/v/python-eyelinkparser.svg)][pypi_]
 [![Status](https://img.shields.io/pypi/status/python-eyelinkparser.svg)][status]
@@ -145,7 +145,8 @@ dm = ep.parse(defaulttraceprocessor=ep.defaulttraceprocessor(
 
 For a tutorial about using EyeLinkParser, see:
 
-- <https://pydatamatrix.eu/eyelinkparser/>
+- <https://pydatamatrix.eu/eyelinkparser/> 
+- <https://maciejskorski.github.io/eye-processing/notebooks/tutorial_parse_eyelink.html> (running in Colab)
 
 ## License
 
