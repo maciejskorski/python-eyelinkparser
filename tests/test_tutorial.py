@@ -22,7 +22,7 @@ def test_get_tutorial():
         )
         return dm
     
-    folder = pkg_resources.resource_dir(python_eyelinkparser,'data')
+    folder = pkg_resources.resource_filename('python_eyelinkparser','data')
     _ = get_data(folder)
 
 
