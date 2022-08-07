@@ -5,7 +5,7 @@
 [![License](https://img.shields.io/pypi/l/python-eyelinkparser)][license]
 
 [![Read the documentation at https://python-eyelinkparser.readthedocs.io/](https://img.shields.io/readthedocs/python-eyelinkparser/latest.svg?label=Read%20the%20Docs)][read the docs]
-%[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/maciejskorski/eye-processing/blob/dev/docs/notebooks/tutorial_parse_eyelink.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/maciejskorski/eye-processing/blob/dev/docs/notebooks/tutorial_parse_eyelink.ipynb)
 %[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/maciejskorski/eye-processing/dev?labpath=docs%2Fnotebooks%2Ftutorial_parse_eyelink.ipynb)
 [![Tests](https://github.com/maciejskorski/python-eyelinkparser/actions/workflows/python_package.yml/badge.svg)][tests]
 
