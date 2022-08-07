@@ -9,7 +9,7 @@ authors = [{name="Sebastiaan Mathôt"}]
 maintainers = [{name="Maciej Skorski"}]
 version = "0.18.0"
 readme = "README.md"
-requires-python = ">=3.8"
+requires-python = ">=3.7"
 keywords = ["eye-tracking", "EyeLink"]
 license = {text = "GNU GENERAL PUBLIC LICENSE"}
 classifiers = [
@@ -26,4 +26,3 @@ dependencies = [
 [tool.setuptools]
 # Automatic discovery will handle the src package layout
 package-dir = {"" = "src"}
-# Explicitly add data - not a package (!)
