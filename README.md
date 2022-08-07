@@ -33,7 +33,7 @@ http://www.cogsci.nl/smathot
 
 ## About
 
-The `python-eyelinkparser` module provides a framework to parse EyeLink data files in `.asc` format, that is, the format that you get after converting an `.edf` file with `edf2asc`. This module is mostly for personal use, and is not very well documented.
+The `python-eyelinkparser` module provides a framework to parse EyeLink data files in `.asc` format, that is, the format that you get after converting an `.edf` file with `edf2asc`. This module is mostly for personal use, and is not fully documented. It has been tested under `Python 3.7+`.
 
 ## Installation
 
