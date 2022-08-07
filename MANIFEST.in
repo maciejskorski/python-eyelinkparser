@@ -1,4 +1,2 @@
-include src/python_eyelinkparser/data
 include src/python_eyelinkparser/data/*.asc
-include src/python_eyelinkparser/utils
 include src/python_eyelinkparser/utils/*
