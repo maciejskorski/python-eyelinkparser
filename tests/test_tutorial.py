@@ -5,11 +5,12 @@ def test_get_tutorial():
     functional as fnc,
     series as srs
     )
+    import pkg_resources 
     from importlib.resources import path
     import python_eyelinkparser
     from python_eyelinkparser.eyelinkparser import parse, defaulttraceprocessor
 
-    def get_data(folder='data'):
+    def get_data(folder):
         # The heavy lifting is done by eyelinkparser.parse()
         dm = parse(
             folder=folder,           # Folder with .asc files
@@ -21,6 +22,7 @@ def test_get_tutorial():
         )
         return dm
     
-    _ = get_data(folder=str(path(python_eyelinkparser,'data')))
+    folder = pkg_resources.resource_dir(python_eyelinkparser,'data')
+    _ = get_data(folder)
 
 
