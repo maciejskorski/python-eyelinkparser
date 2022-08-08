@@ -21,7 +21,7 @@ dependencies = [
     "scipy>=1.7",
     "python-datamatrix>=0.13",
     "fastnumbers>=3.0",
-    "prettytable>=3.0"
+    "prettytable>=3.0",
     "matplotlib>=3.*"
 ]
 
