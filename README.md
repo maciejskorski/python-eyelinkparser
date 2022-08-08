@@ -2,8 +2,7 @@
 
 [![Status](https://img.shields.io/pypi/status/python-eyelinkparser.svg)][status]
 [![Python Version](https://img.shields.io/badge/python-3.7%2B-blue.svg)](https://www.python.org/downloads/release/python-370/)
-[![License](https://img.shields.io/pypi/l/python-eyelinkparser)][license]
-
+[![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)][colab]
 [![Binder](https://mybinder.org/badge_logo.svg)][binder]
 [![Tests](https://github.com/maciejskorski/python-eyelinkparser/actions/workflows/python_package.yml/badge.svg)][tests]
